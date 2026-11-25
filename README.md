@@ -4,8 +4,6 @@ Vitrine de jogadores de Valorant que estão como **free agent**, ou seja, sem ti
 
 Projeto desenvolvido como prova prática da disciplina **Laboratório de Desenvolvimento Web** (Ciência da Computação — CESUPA): uma aplicação **SPA (Single Page Application)** feita com **React**.
 
-![Página de jogadores](docs/screenshot.png)
-
 ## Tecnologias
 
 - [React](https://react.dev/) (criado com `create-react-app`)

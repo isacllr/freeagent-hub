@@ -1,0 +1,59 @@
+.pagina {
+  padding: 60px 6% 0;
+  max-width: 640px;
+}
+
+.titulo {
+  font-size: 2.6rem;
+  text-transform: uppercase;
+}
+
+.texto {
+  color: #b9c2bd;
+  margin-bottom: 28px;
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.rotulo {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.campo {
+  padding: 10px 12px;
+  font: inherit;
+  color: #ece8e1;
+  background-color: #1b2733;
+  border: 1px solid #2c3a47;
+}
+
+.campo:focus {
+  outline: none;
+  border-color: #ff4655;
+}
+
+.botao {
+  align-self: flex-start;
+  padding: 12px 32px;
+  font: inherit;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #0f1923;
+  background-color: #ff4655;
+  border: none;
+  cursor: pointer;
+}
+
+.sucesso {
+  padding: 16px;
+  background-color: #1b2733;
+  border-left: 4px solid #3ddc97;
+}

@@ -1,0 +1,14 @@
+.rodape {
+  margin-top: 64px;
+  padding: 28px 6%;
+  text-align: center;
+  background-color: #0b121a;
+  border-top: 2px solid #ff4655;
+}
+
+.marca {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: 2px;
+}

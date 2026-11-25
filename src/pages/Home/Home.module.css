@@ -1,0 +1,75 @@
+.home {
+  padding: 0 6%;
+}
+
+.hero {
+  padding: 90px 0 70px;
+  max-width: 720px;
+}
+
+.tag {
+  color: #ff4655;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.85rem;
+}
+
+.titulo {
+  font-size: clamp(2.4rem, 6vw, 4rem);
+  line-height: 1.05;
+  margin: 10px 0 18px;
+  text-transform: uppercase;
+}
+
+.destaque {
+  color: #ff4655;
+}
+
+.texto {
+  color: #b9c2bd;
+  font-size: 1.1rem;
+}
+
+.botoes {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-top: 28px;
+}
+
+.botaoPrincipal,
+.botaoSecundario {
+  padding: 12px 26px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.botaoPrincipal {
+  background-color: #ff4655;
+  color: #0f1923;
+}
+
+.botaoSecundario {
+  border: 1px solid #ece8e1;
+}
+
+.botaoPrincipal:hover,
+.botaoSecundario:hover {
+  opacity: 0.85;
+}
+
+.secao {
+  padding-top: 20px;
+}
+
+.subtitulo {
+  font-size: 2rem;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.destaqueCard {
+  max-width: 300px;
+}

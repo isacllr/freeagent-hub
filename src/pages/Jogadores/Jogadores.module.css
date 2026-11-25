@@ -1,0 +1,19 @@
+.pagina {
+  padding: 60px 6% 0;
+}
+
+.titulo {
+  font-size: 2.6rem;
+  text-transform: uppercase;
+}
+
+.texto {
+  color: #b9c2bd;
+  margin-bottom: 32px;
+}
+
+.grade {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 24px;
+}

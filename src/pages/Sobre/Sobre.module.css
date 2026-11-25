@@ -1,0 +1,38 @@
+.pagina {
+  padding: 60px 6% 0;
+  max-width: 1000px;
+}
+
+.titulo {
+  font-size: 2.6rem;
+  text-transform: uppercase;
+}
+
+.texto {
+  color: #b9c2bd;
+  font-size: 1.05rem;
+  margin-bottom: 36px;
+}
+
+.subtitulo {
+  font-size: 1.8rem;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+
+.funcoes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.funcao {
+  padding: 18px;
+  background-color: #1b2733;
+  border-left: 4px solid #ff4655;
+}
+
+.funcao p {
+  color: #b9c2bd;
+  font-size: 0.9rem;
+}
